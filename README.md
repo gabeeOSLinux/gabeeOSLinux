@@ -12,8 +12,6 @@
 
 
 
-Pop Shell extension (Developer by Michael Murphy)
-
 <p><strong>Pop Shell extension</strong> (Developer by Michael Murphy)</p>
 <p><em>"Pop Shell is a keyboard-driven layer for GNOME Shell which allows for quick and sensible navigation and management of windows. The core feature of Pop Shell is the addition of advanced tiling window management".</em>(Michael Murphy)</p>
 
