@@ -14,3 +14,5 @@
 <p><em>Or to put it another way it&rsquo;s i3-gaps, but for GNOME Shell, natively, with all the raw power that comes from that, namely fine-grained keyboard control PLUS all the niceties that of a full-bodied desktop environment too.</em> (Joey Sneddon)</p>
 
 <p class="unchanged rich-diff-level-one"><img src="https://i.postimg.cc/N0X2vKV4/pop-shell.png" alt="" width="1280" height="540" /></p>
+
+<h4>In other words, gabee<span style="color: #ff00ff;">OS</span> Linux combines the beauty of Gnome with the power of Void.</h4>
