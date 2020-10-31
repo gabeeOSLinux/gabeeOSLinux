@@ -16,3 +16,8 @@
 <p class="unchanged rich-diff-level-one"><img src="https://i.postimg.cc/N0X2vKV4/pop-shell.png" alt="" width="1280" height="540" /></p>
 
 <h4>In other words, gabee<span style="color: #ff00ff;">OS</span> Linux combines the beauty of Gnome with the power of Void.</h4>
+
+<h4>Login to LiveCD</h4>
+<p>user: anon<br />password: gabeeoslinux</p>
+<h4>For install:</h4>
+<p>Open the terminal and type sudo gabeeos-installer.</p>
