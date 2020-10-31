@@ -23,4 +23,4 @@
 <p>Open the terminal and type sudo gabeeos-installer.</p>
 
 <p><h4>Download</h4></p>
-<p><a title="gabeeOS Linux" href="https://drive.google.com/file/d/1lMwvGbk6aMAa2NK1rE66IdoYOUSUPFPX/view?usp=sharing" target="_blank" rel="noopener">https://drive.google.com/file/d/1lMwvGbk6aMAa2NK1rE66IdoYOUSUPFPX/view?usp=sharing</a></p>
+<p><a title="gabeeOS Linux" href="https://drive.google.com/file/d/1lMwvGbk6aMAa2NK1rE66IdoYOUSUPFPX/view?usp=sharing">gabeeOS Linux</a></p>
