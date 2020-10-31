@@ -1,5 +1,4 @@
-
-<p class="unchanged rich-diff-level-one"><img src="https://i.postimg.cc/JzZXc8Gd/perspectiva.png" alt="" width="1280" height="540" /></p>
+<p class="unchanged rich-diff-level-one"><img src="https://i.postimg.cc/B61SKTZW/repository-template.png" alt="" width="1280" height="540" /></p>
 
 GabeeOS is a Linux distribution based on Void, which brings the necessary software to satisfy the daily needs of an end user; in a simple and aesthetically neat desktop environment.
 Being based on Void Linux, it adopts all its characteristics. Making it a powerful, robust and secure distribution.
@@ -12,6 +11,12 @@ It also includes
 
 development tools meta pack.
 git, curl, wget...
+
+
+
+<p class="unchanged rich-diff-level-one"><img src="https://i.postimg.cc/JzZXc8Gd/perspectiva.png" alt="" width="1280" height="540" /></p>
+
+
 
 Pop Shell extension (Developer by Michael Murphy)
 
