@@ -7,7 +7,9 @@
 <p><strong>It also includes</strong></p>
 <p>development tools meta pack.<br />git, curl, wget...</p>
 
+<p>By default it has the<strong> bash</strong> shell installed. If you want to switch to<strong> zsh+powerlevel10k</strong>, open the terminal and type: chsh -s / bin / zsh; put your password and restart the terminal.<br />Now you will be presented with the powerlevel10k configuration menu.</p>
 
+<p><img src="https://i.postimg.cc/gJRDJhqJ/configuration-wizard.gif" alt="configuration wizard" width="884" height="762" /></p>
 
 <p><strong>Pop Shell extension</strong> (Developer by Michael Murphy)</p>
 <p><em>Pop Shell pitches itself as a &ldquo;&hellip;keyboard-driven layer for GNOME Shell which allows for quick and sensible navigation and management of windows&rdquo;.</em></p>
