@@ -11,7 +11,7 @@
 
 <p><strong>Pop Shell extension</strong> (Developer by Michael Murphy)</p>
 <p><em>Pop Shell pitches itself as a &ldquo;&hellip;keyboard-driven layer for GNOME Shell which allows for quick and sensible navigation and management of windows&rdquo;.</em></p>
-<p><em>Or to put it another way it&rsquo;s i3-gaps, but for GNOME Shell, natively, with all the raw power that comes from that, namely fine-grained keyboard control PLUS all the niceties that of a full-bodied desktop environment too.</em></p>(Joey Sneddon)
+<p><em>Or to put it another way it&rsquo;s i3-gaps, but for GNOME Shell, natively, with all the raw power that comes from that, namely fine-grained keyboard control PLUS all the niceties that of a full-bodied desktop environment too.</em>(Joey Sneddon)</p>
 
 <p class="unchanged rich-diff-level-one"><img src="https://i.postimg.cc/N0X2vKV4/pop-shell.png" alt="" width="1280" height="540" /></p>
 
