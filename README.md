@@ -3,6 +3,11 @@
 
 <p><strong>GabeeOS</strong> is a Void-based Linux distribution , which brings the necessary software to satisfy the daily needs of an end user; in a simple and aesthetically pleasing desktop environment.</p>
 
+
+<h2><p>Gnome 3.38</p></h2>
+
+<p><img src="https://i.postimg.cc/sXq5pgmL/gnome-3-38.png" alt="Gnome 3.38" width="720" height="405" /></p>
+
 <h2><p><strong>Software</strong></p></h2>
 
 <p>Calendar, Nautilus, Photos, Weather, Contacts, Text Editor, Deepin Terminal, Disk usage analyzer, Disk paritioner, Network tool, Gnome system monitor, Gnome Screenshot, Simple screen recorder, uGet, vlc, etc.</p>
