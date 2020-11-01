@@ -22,15 +22,15 @@
 
 <p class="unchanged rich-diff-level-one"><img src="https://i.postimg.cc/N0X2vKV4/pop-shell.png" alt="" width="1280" height="540" /></p>
 
-<h4>In other words, gabee<span style="color: #ff00ff;">OS</span> Linux combines the beauty of Gnome with the power of Void.</h4>
+<h2>In other words, gabee<span style="color: #ff00ff;">OS</span> Linux combines the beauty of Gnome with the power of Void.</h2>
 
-<h4>Login to LiveCD</h4>
+<h2>Login to LiveCD</h2>
 <p>user: anon<br />password: gabeeoslinux</p>
-<h4>For install:</h4>
+<h2>For install:</h2>
 <p>Open the terminal and type sudo gabeeos-installer.</p>
 
 <p>Tip: Change the color scheme of the terminal to the cai theme for a better reading of the installation menu.</p>
 <p><img src="https://i.postimg.cc/vBxTyHzG/theme-cai.png" alt="theme cai" width="219" height="156" /></p>
 
-<p><h4>Download</h4></p>
+<p><h2>Download</h2></p>
 <p><a title="gabeeOS Linux" href="https://drive.google.com/file/d/1GXGRlMG8us9kXWwb_NjIOh2qiIGXbOL-/view?usp=sharing">gabeeOS Linux</a></p>
