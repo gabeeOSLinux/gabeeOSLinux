@@ -27,9 +27,9 @@
 <h2>Login to LiveCD</h2>
 <p>user: anon<br />password: gabeeoslinux</p>
 <h2>For install:</h2>
-<p>Open the terminal and type sudo gabeeos-installer.</p>
+<h4><p>Open the terminal and type sudo gabeeos-installer.</p></h4>
 
-<p>Tip: Change the color scheme of the terminal to the cai theme for a better reading of the installation menu.</p>
+<p><em><strong>Tip:</strong> Change the color scheme of the terminal to the cai theme for a better reading of the installation menu.</em></p>
 <p><img src="https://i.postimg.cc/vBxTyHzG/theme-cai.png" alt="theme cai" width="219" height="156" /></p>
 
 <p><h2>Download</h2></p>
