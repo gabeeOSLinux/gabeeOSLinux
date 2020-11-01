@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+<p class="unchanged rich-diff-level-one"><img src="https://i.postimg.cc/JzZXc8Gd/perspectiva.png" alt="" width="1280" height="540" /></p>
 
-You can use the [editor on GitHub](https://github.com/gabeeOSLinux/gabeeOSLinux/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p><strong>GabeeOS</strong> is a Void-based Linux distribution , which brings the necessary software to satisfy the daily needs of an end user; in a simple and aesthetically pleasing desktop environment.</p>
+<p><strong>Software</strong></p>
+<p>Calendar, Nautilus, Photos, Weather, Contacts, Text Editor, Deepin Terminal, Disk usage analyzer, Disk paritioner, Network tool, Gnome system monitor, Gnome Screenshot, Simple screen recorder, uGet, vlc, etc.</p>
+<p><strong>It also includes</strong></p>
+<p>development tools meta pack.<br />git, curl, wget...</p>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<p><strong>Pop Shell extension</strong> (Developer by Michael Murphy)</p>
+<p><em><strong>Pop Shell</strong> pitches itself as a &ldquo;&hellip;keyboard-driven layer for GNOME Shell which allows for quick and sensible navigation and management of windows&rdquo;.</em></p>
+<p><em>Or to put it another way it&rsquo;s i3-gaps, but for GNOME Shell, natively, with all the raw power that comes from that, namely fine-grained keyboard control PLUS all the niceties that of a full-bodied desktop environment too.</em> (Joey Sneddon)</p>
 
-# Header 1
-## Header 2
-### Header 3
+<p class="unchanged rich-diff-level-one"><img src="https://i.postimg.cc/N0X2vKV4/pop-shell.png" alt="" width="1280" height="540" /></p>
 
-- Bulleted
-- List
+<h4>In other words, gabee<span style="color: #ff00ff;">OS</span> Linux combines the beauty of Gnome with the power of Void.</h4>
 
-1. Numbered
-2. List
+<h4>Login to LiveCD</h4>
+<p>user: anon<br />password: gabeeoslinux</p>
+<h4>For install:</h4>
+<p>Open the terminal and type sudo gabeeos-installer.</p>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gabeeOSLinux/gabeeOSLinux/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p><h4>Download</h4></p>
+<p><a title="gabeeOS Linux" href="https://drive.google.com/file/d/1GXGRlMG8us9kXWwb_NjIOh2qiIGXbOL-/view?usp=sharing">gabeeOS Linux</a></p>
