@@ -34,8 +34,6 @@
 <h2>For install:</h2>
 <h4><p>Open the terminal and type sudo gabeeos-installer.</p></h4>
 
-<p><em><strong>Tip:</strong> Change the color scheme of the terminal to the cai theme for a better reading of the installation menu.</em></p>
-<p><img src="https://i.postimg.cc/vBxTyHzG/theme-cai.png" alt="theme cai" width="219" height="156" /></p>
 
 <p><h2>Download</h2></p>
-<p><a title="gabeeOS Linux" href="https://drive.google.com/file/d/10-LEqTnEHnS0A7IBky89nucYsXZTXxPq/view?usp=sharing">gabeeOS Linux</a></p>
+<p><a title="gabeeOS Linux" href="https://drive.google.com/file/d/1WKaOZLjBe4j4g8jwbHpi_Q5zl_828LCe/view?usp=sharing">gabeeOS Linux</a></p>
