@@ -21,6 +21,24 @@
 
 <p><img src="https://i.postimg.cc/0jXP9QgS/agnoster-customization.gif" alt="Agnoster theme" width="1200" height="419" /></p>
 
+<h2>Tilix: A tiling terminal emulator</h2>
+<p>(<a href="https://gnunn1.github.io/tilix-web/">https://gnunn1.github.io/tilix-web/</a>)</p>
+<h3>Features</h3>
+<h5 class="value-multiplier">Custom links</h5>
+<p>Terminals support custom titles and custom hyperlinks.</p>
+<h5 class="value-multiplier">Drag and Drop</h5>
+<p>Terminals can be re-arranged using drag and drop both within and between windows.</p>
+<h5 class="value-multiplier">Image Support</h5>
+<p>Transparent background image support.</p>
+<h5 class="value-multiplier">Multiple Panes</h5>
+<p>Layout terminals in any fashion by splitting them horizontally or vertically.</p>
+<h5 class="value-multiplier">Notifications</h5>
+<p>Supports notifications when processes are completed out of view.</p>
+<h5 class="value-multiplier">Persistent Layouts</h5>
+<p>Grouping of terminals can be saved and loaded from disk.</p>
+<p><img src="https://i.postimg.cc/Dz9s5v87/tilix.png" alt="Tilix: A tiling terminal emulator" width="780" height="550" /></p>
+<p>&nbsp;</p>
+
 
 
 <h2><p><strong>Pop Shell extension</strong> (Developer by Michael Murphy)</p></h2>
