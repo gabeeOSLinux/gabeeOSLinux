@@ -15,11 +15,13 @@
 <p><strong>It also includes</strong></p>
 <p>development tools meta pack.<br />git, curl, wget...</p>
 
-<h2>zsh + powerlevel10k pre-installed</h2>
+<h2>zsh + oh-my-zsh pre-installed</h2>
 
-<p>By default it has the<strong> bash</strong> shell installed. If you want to switch to<strong> zsh+powerlevel10k (Roman Perepelitsa)</strong>, open the terminal and type: chsh -s / bin / zsh; put your password and restart the terminal.<br />Now you will be presented with the powerlevel10k configuration menu.</p>
+<p>By default it has the<strong> bash</strong> shell installed. If you want to switch to<strong> zsh+oh-my-zsh (https://ohmyz.sh/)</strong>, open the terminal and type: chsh -s / bin / zsh; put your password and restart the terminal.<br /></p>
 
-<p><img src="https://i.postimg.cc/gJRDJhqJ/configuration-wizard.gif" alt="configuration wizard" width="884" height="762" /></p>
+<p><img src="https://i.postimg.cc/0jXP9QgS/agnoster-customization.gif" alt="Agnoster theme" width="1200" height="419" /></p>
+
+
 
 <h2><p><strong>Pop Shell extension</strong> (Developer by Michael Murphy)</p></h2>
 <p><em>Pop Shell pitches itself as a &ldquo;&hellip;keyboard-driven layer for GNOME Shell which allows for quick and sensible navigation and management of windows&rdquo;.</em></p>
