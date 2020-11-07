@@ -17,7 +17,7 @@
 
 <h2>zsh + oh-my-zsh pre-installed</h2>
 
-<p>By default it has the<strong> bash</strong> shell installed. If you want to switch to<strong> zsh+oh-my-zsh (https://ohmyz.sh/)</strong>, open the terminal and type: chsh -s / bin / zsh; put your password and restart the terminal.<br /></p>
+<p>By default it has the<strong> zsh+oh-my-zsh</strong> shell installed. (https://ohmyz.sh/)<br /></p>
 
 <p><img src="https://i.postimg.cc/0jXP9QgS/agnoster-customization.gif" alt="Agnoster theme" width="1200" height="419" /></p>
 
