@@ -40,7 +40,7 @@
 <p>&nbsp;</p>
 
 <h2>To simplify the XBPS package manager commands, the following aliases have been created for its main commands:</h2>
-<p style="text-align: justify;"><strong>install</strong> <em>"package" (to install software)</em><br /><strong>remove</strong> <em>"package" (to remove software)</em><br /><strong>update</strong><em> (to update repositories)</em><br /><strong>upgrade</strong> <em>(to upgrade the system)</em><br /><strong>find</strong> <em>"package" (to search for software)</em><br /><strong>orphan</strong> (to remove orphan software)<br /><strong>clean</strong> <em>(to clean the XBPS cache)</em></p>
+<p style="text-align: justify;"><strong>install</strong> <em>"package" (to install software)</em><br /><strong>remove</strong> <em>"package" (to remove software)</em><br /><strong>update</strong><em> (to update repositories)</em><br /><strong>upgrade</strong> <em>(to upgrade the system)</em><br /><strong>find</strong> <em>"package" (to search for software)</em><br /><strong>orphan</strong> (to remove all packages that are not needed as a dependency)<br /><strong>clean</strong> <em>(to clean the XBPS cache)</em></p>
 
 <h2><p><strong>Pop Shell extension</strong> (Developer by Michael Murphy)</p></h2>
 <p><em>Pop Shell pitches itself as a &ldquo;&hellip;keyboard-driven layer for GNOME Shell which allows for quick and sensible navigation and management of windows&rdquo;.</em></p>
