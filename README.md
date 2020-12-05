@@ -57,4 +57,4 @@
 
 
 <p><h2>Download</h2></p>
-<p><a title="gabeeOS Linux" href="https://sourceforge.net/projects/gabeeoslinux/files/Distro/gabeeos-live-installer-x86_64-5.8.18_1-20201116.iso/download">gabeeOS Linux</a></p>
+<p><a title="gabeeOS Linux" href="https://sourceforge.net/projects/gabeeoslinux/files/Distro/gabeeos-live-x86_64-5.8.18_1-20201203.iso/download">gabeeOS Linux</a></p>
