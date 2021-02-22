@@ -1,4 +1,4 @@
-<p class="unchanged rich-diff-level-one"><img src="https://i.postimg.cc/JzZXc8Gd/perspectiva.png" alt="" width="1280" height="540" /></p>
+<p class="unchanged rich-diff-level-one"><img src="https://i.postimg.cc/SRxnCGbb/desktop.png" alt="" width="1280" height="540" /></p>
 
 
 <p><strong>GabeeOS</strong> is a Void-based Linux distribution , which brings the necessary software to satisfy the daily needs of an end user; in a simple and aesthetically pleasing desktop environment.</p>
