@@ -3,6 +3,9 @@
 
 <p><strong>GabeeOS</strong> is a Void-based Linux distribution , which brings the necessary software to satisfy the daily needs of an end user; in a simple and aesthetically pleasing desktop environment.</p>
 
+<p><strong>Desktop Layouts<br /></strong></p>
+<p>&nbsp;</p>
+
 <p><strong><img src="https://i.postimg.cc/SxcTtvVk/minimal-desktop.png" /></strong></p>
 <p>&nbsp;</p>
 <p><strong>gabeeOS Linux</strong> has two layouts. A clean and simple desktop, in the style of windows manager, but with all the power of a desktop manager like Gnome. And the classic Gnome desk, with the top bar and dock. To activate Gnome Layout, just press Sup + Z. On the contrary, Sup + X will return to the simple desktop.</p>
