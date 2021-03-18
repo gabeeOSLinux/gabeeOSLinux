@@ -3,6 +3,13 @@
 
 <p><strong>GabeeOS</strong> is a Void-based Linux distribution , which brings the necessary software to satisfy the daily needs of an end user; in a simple and aesthetically pleasing desktop environment.</p>
 
+<p><strong>gabeeOS Linux</strong> has two layouts. A clean and simple desktop, in the style of windows manager, but with all the power of a desktop manager like Gnome. And the classic Gnome desk, with the top bar and dock. To activate Gnome Layout, just press Sup + Z. On the contrary, Sup + X will return to the simple desktop.</p>
+<p>&nbsp;</p>
+<p>All keyboard shortcuts, such as the alias for the XBPS package manager, are described in the conky help. The conky can be hidden or shown by pressing the CTRL + ALT + H (hide) or CTRL + ALT + S (show) key combination.</p>
+<p><strong>&nbsp;</strong></p>
+
+
+
 
 <h2><p>Gnome 3.38</p></h2>
 
