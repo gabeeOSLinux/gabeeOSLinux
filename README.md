@@ -8,6 +8,7 @@
 <p><strong>gabeeOS Linux</strong> has two layouts. A clean and simple desktop, in the style of windows manager, but with all the power of a desktop manager like Gnome. And the classic Gnome desk, with the top bar and dock. To activate Gnome Layout, just press Sup + Z. On the contrary, Sup + X will return to the simple desktop.</p>
 <p>&nbsp;</p>
 
+<p><strong><img src="https://i.postimg.cc/J4M5zzQV/full-desktop.png" alt="" width="1280" height="540" /><br /></strong></p>
 
 <h2><p>Gnome 3.38</p></h2>
 
