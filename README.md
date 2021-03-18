@@ -13,6 +13,11 @@
 
 <p><strong><img src="https://i.postimg.cc/J4M5zzQV/full-desktop.png" alt="" width="1280" height="540" /><br /></strong></p>
 
+<p>&nbsp;</p>
+<p>All keyboard shortcuts, such as the alias for the XBPS package manager, are described in the conky help. The conky can be hidden or shown by pressing the CTRL + ALT + H (hide) or CTRL + ALT + S (show) key combination.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+
 <h2><p>Gnome 3.38</p></h2>
 
 <p><img src="https://i.postimg.cc/sXq5pgmL/gnome-3-38.png" alt="Gnome 3.38" width="720" height="405" /></p>
