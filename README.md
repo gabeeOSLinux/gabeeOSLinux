@@ -51,6 +51,7 @@
 <h5 class="value-multiplier">Persistent Layouts</h5>
 <p>Grouping of terminals can be saved and loaded from disk.</p>
 <p><img src="https://i.postimg.cc/jSsprT1Z/tilix.png" alt="" width="1024" height="432" /></p>
+<p>&nbsp;</p>
 
 <h2>To simplify the XBPS package manager commands, the following aliases have been created for its main commands:</h2>
 <p style="text-align: justify;"><strong>install</strong> <em>"package" (to install software)</em><br /><strong>remove</strong> <em>"package" (to remove software)</em><br /><strong>update</strong><em> (to update repositories)</em><br /><strong>upgrade</strong> <em>(to upgrade the system)</em><br /><strong>find</strong> <em>"package" (to search for software)</em><br /><strong>orphan</strong> (<em>to remove all packages that are not needed as a dependency</em>)<br /><strong>clean</strong> <em>(to clean the XBPS cache)</em></p>
@@ -59,7 +60,7 @@
 <p><em>Pop Shell pitches itself as a &ldquo;&hellip;keyboard-driven layer for GNOME Shell which allows for quick and sensible navigation and management of windows&rdquo;.</em></p>
 <p><em>Or to put it another way it&rsquo;s i3-gaps, but for GNOME Shell, natively, with all the raw power that comes from that, namely fine-grained keyboard control PLUS all the niceties that of a full-bodied desktop environment too.</em>(Joey Sneddon)</p>
 
-<p class="unchanged rich-diff-level-one"><img src="https://i.postimg.cc/N0X2vKV4/pop-shell.png" alt="" width="1280" height="540" /></p>
+<p><img src="https://i.postimg.cc/DzsfSn2L/pop-shell.png" alt="" width="768" height="452" /></p>
 
 <h2>In other words, gabee<span style="color: #ff00ff;">OS</span> Linux combines the beauty of Gnome with the power of Void.</h2>
 
@@ -67,6 +68,7 @@
 <p>user: anon<br />password: gabeeoslinux</p>
 <h2>For install:</h2>
 <h4><p>Open the terminal and type sudo gabeeos-installer.</p></h4>
+<p>To install the packages for the desktop environment, choose the "local install" option.</p>
 
 
 <p><h2>Download</h2></p>
