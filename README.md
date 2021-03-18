@@ -50,8 +50,7 @@
 <p>Supports notifications when processes are completed out of view.</p>
 <h5 class="value-multiplier">Persistent Layouts</h5>
 <p>Grouping of terminals can be saved and loaded from disk.</p>
-<p><img src="https://i.postimg.cc/Dz9s5v87/tilix.png" alt="Tilix: A tiling terminal emulator" width="780" height="550" /></p>
-<p>&nbsp;</p>
+<p><img src="https://i.postimg.cc/jSsprT1Z/tilix.png" alt="" width="1024" height="432" /></p>
 
 <h2>To simplify the XBPS package manager commands, the following aliases have been created for its main commands:</h2>
 <p style="text-align: justify;"><strong>install</strong> <em>"package" (to install software)</em><br /><strong>remove</strong> <em>"package" (to remove software)</em><br /><strong>update</strong><em> (to update repositories)</em><br /><strong>upgrade</strong> <em>(to upgrade the system)</em><br /><strong>find</strong> <em>"package" (to search for software)</em><br /><strong>orphan</strong> (<em>to remove all packages that are not needed as a dependency</em>)<br /><strong>clean</strong> <em>(to clean the XBPS cache)</em></p>
