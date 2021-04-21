@@ -72,4 +72,4 @@
 
 
 <p><h2>Download</h2></p>
-<p><a title="gabeeOS Linux" href="https://sourceforge.net/projects/gabeeoslinux/files/Distro/Release%20Home%20Edition/gabeeos-live-HOME-EDITION-x86_64-5.11.9_1-20210326.iso/download">gabeeOS Linux</a></p>
+<p><a title="gabeeOS Linux" href="https://sourceforge.net/projects/gabeeoslinux/files/Distro/">gabeeOS Linux</a></p>
