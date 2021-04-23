@@ -20,7 +20,7 @@
 
 <h2><p>Gnome 3.38</p></h2>
 
-<p><img src="https://i.postimg.cc/sXq5pgmL/gnome-3-38.png" alt="Gnome 3.38" width="720" height="405" /></p>
+<p><img src="https://i.postimg.cc/Fs6zWyC3/gnome-40.png" alt="Gnome 3.38" width="720" height="405" /></p>
 
 <h2><p><strong>Software</strong></p></h2>
 
