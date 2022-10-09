@@ -18,9 +18,9 @@
 <p>&nbsp;</p>
 <p><strong>&nbsp;</strong></p>
 
-<h2><p>Gnome 40</p></h2>
+<h2><p>Gnome 42.4</p></h2>
 
-<p><img src="https://i.postimg.cc/R0Hg6LyR/gnome-40.png" alt="Gnome 3.38" width="1280" height="540" /></p>
+<p><img src="https://i.postimg.cc/FRFSBNqf/gabeeos-simple-desk-conly-help.png" alt="Gnome 3.38" width="1280" height="540" /></p>
 
 <h2><p><strong>Software</strong></p></h2>
 
