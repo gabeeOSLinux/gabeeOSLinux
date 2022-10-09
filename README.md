@@ -6,12 +6,15 @@
 <p><strong>Desktop Layouts<br /></strong></p>
 <p>&nbsp;</p>
 
-<p><strong><img src="https://i.postimg.cc/SxcTtvVk/minimal-desktop.png" /></strong></p>
+<p><strong><img src="https://i.postimg.cc/7Z3MtxX4/simple-desk.png" /></strong></p>
 <p>&nbsp;</p>
-<p><strong>gabeeOS Linux</strong> has two layouts. A clean and simple desktop, in the style of windows manager, but with all the power of a desktop manager like Gnome. And the classic Gnome desk, with the top bar and dock. To activate Gnome Layout, just press Sup + Z. On the contrary, Sup + X will return to the simple desktop. Note: In full desktop mode, the dock used is plank. For this to work you must be logged into Xorg.</p>
+<p><strong>gabeeOS Linux</strong> has three layouts. A clean and simple desktop, in the style of windows manager, but with all the power of a desktop manager like Gnome. The classic Gnome desk, with the top bar and dock and a third Unity style layout. To activate Gnome Layout, just press Sup + Z, Sup + <. On the contrary, Sup + X will return to the simple desktop. Note: In full desktop and Unity mode, the dock used is dash-to-dock extension.</p>
 <p>&nbsp;</p>
 
-<p><strong><img src="https://i.postimg.cc/J4M5zzQV/full-desktop.png" alt="" width="1280" height="540" /><br /></strong></p>
+<p><strong><img src="https://i.postimg.cc/vZ4w5Nv5/full-desk.png" alt="" width="1280" height="540" /><br /></strong></p>
+
+<p><strong><img src="https://i.postimg.cc/J0s5pZYY/unity-desk.png" alt="" width="1280" height="540" /><br /></strong></p>
+
 
 <p>&nbsp;</p>
 <p>All keyboard shortcuts, such as the alias for the XBPS package manager, are described in the conky help. The conky can be hidden or shown by pressing the CTRL + ALT + H (hide) or CTRL + ALT + S (show) key combination.</p>
