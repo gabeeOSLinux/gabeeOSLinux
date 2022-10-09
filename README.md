@@ -75,4 +75,4 @@
 
 
 <p><h2>Download</h2></p>
-<p><a title="Update: gabeeOS Linux - Gnome 42.4" href="https://sourceforge.net/projects/gabeeoslinux/files/Distro/">gabeeOS Linux</a></p>
+<p><a title="Update: gabeeOS Linux - Gnome 42.4" href="https://sourceforge.net/projects/gabeeoslinux/files/Distro/">gabeeOS Linux - Gnome 42.4</a></p>
