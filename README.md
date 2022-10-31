@@ -34,6 +34,7 @@
 <p>Calendar, Nautilus, Photos, Weather, Contacts, Text Editor, Deepin Terminal, Disk usage analyzer, Disk paritioner, Network tool, Gnome system monitor, Gnome Screenshot, Simple screen recorder, uGet, vlc, etc.</p>
 
 <h2>Ulauncher: Application launcher for Linux</h2>
+(https://ulauncher.io/)
 
 <p><img src="https://i.postimg.cc/8CBwQV4Y/demo.gif" alt="Agnoster theme" width="800" height="419" /></p>
 
