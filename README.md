@@ -35,7 +35,7 @@
 
 <h2>Ulauncher: Application launcher for Linux</h2>
 
-<p><img src="https://i.postimg.cc/8CBwQV4Y/demo.gif/></p>
+<p><img src="https://i.postimg.cc/8CBwQV4Y/demo.gif" alt="Agnoster theme" width="1200" height="419" /></p>
 
 
 
