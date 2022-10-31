@@ -35,7 +35,7 @@
 
 <h2>Ulauncher: Application launcher for Linux</h2>
 
-https://i.postimg.cc/8CBwQV4Y/demo.gif
+<p><img src="https://i.postimg.cc/8CBwQV4Y/demo.gif/></p>
 
 
 
