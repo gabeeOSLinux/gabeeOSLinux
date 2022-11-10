@@ -12,7 +12,7 @@
 
 <p><strong><img src="https://i.postimg.cc/7Z3MtxX4/simple-desk.png" /></strong></p>
 <p>&nbsp;</p>
-<p><strong>gabeeOS Linux</strong> has three layouts. A clean and simple desktop, in the style of windows manager, but with all the power of a desktop manager like Gnome. The classic Gnome desk, with the top bar and dock and a third Unity style layout. To activate Gnome Layout, just press Sup + Z, Sup + <. On the contrary, Sup + X will return to the simple desktop. Note: In full desktop and Unity mode, the dock used is dash-to-dock extension.</p>
+<p><strong>gabeeOS Linux</strong> has two layouts. A clean and simple desktop, in the style of windows manager, but with all the power of a desktop manager like Gnome and the classic Gnome desk, with the top bar and dock. To activate Gnome Layout, just press Sup + Z. On the contrary, Sup + X will return to the simple desktop. Note: In full desktop mode, the dock used is dash-to-dock extension.</p>
 <p>&nbsp;</p>
 
 <p><strong><img src="https://i.postimg.cc/vZ4w5Nv5/full-desk.png" alt="" width="1280" height="540" /><br /></strong></p>
