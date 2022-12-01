@@ -7,6 +7,14 @@
 <p><a title="Update: gabeeOS Linux - Gnome 42.6" href="https://sourceforge.net/projects/gabeeoslinux/files/Distro/">gabeeOS Linux - Gnome 42.4</a></p>
 <p><strong>&nbsp;</strong></p>
 
+<p><strong>Calamares Installer<br /></strong></p>
+<p>&nbsp;</p>
+
+Now gabeeOS Linux incorporates the Calamares installer.
+I must thank Kevin Figueroa for his collaboration in making it possible for this to happen.
+
+But for those who prefer the old school it can also be installed through the terminal by running: sudo gabeeos-installer.
+
 <p><strong>Desktop Layouts<br /></strong></p>
 <p>&nbsp;</p>
 
