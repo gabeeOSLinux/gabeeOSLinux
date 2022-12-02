@@ -35,7 +35,7 @@ But for those who prefer the old school it can also be installed through the ter
 <p>&nbsp;</p>
 <p><strong>&nbsp;</strong></p>
 
-<h2><p>Gnome 42.4</p></h2>
+<h2><p>Gnome 42.6</p></h2>
 
 <p><img src="https://i.postimg.cc/FRFSBNqf/gabeeos-simple-desk-conly-help.png" alt="Gnome 3.38" width="1280" height="540" /></p>
 
@@ -94,4 +94,4 @@ But for those who prefer the old school it can also be installed through the ter
 
 
 <p><h2>Download</h2></p>
-<p><a title="Update: gabeeOS Linux - Gnome 42.6" href="https://sourceforge.net/projects/gabeeoslinux/files/Distro/">gabeeOS Linux - Gnome 42.4</a></p>
+<p><a title="Update: gabeeOS Linux - Gnome 42.6" href="https://sourceforge.net/projects/gabeeoslinux/files/Distro/">gabeeOS Linux - Gnome 42.6</a></p>
