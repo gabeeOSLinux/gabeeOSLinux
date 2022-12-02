@@ -7,8 +7,10 @@
 <p><a title="Update: gabeeOS Linux - Gnome 42.6" href="https://sourceforge.net/projects/gabeeoslinux/files/Distro/">gabeeOS Linux - Gnome 42.4</a></p>
 <p><strong>&nbsp;</strong></p>
 
-<p><strong>Calamares Installer<br /></strong></p>
+<p><h3>Calamares Installer</h3></p>
 <p>&nbsp;</p>
+
+<p><strong><img src="https://i.postimg.cc/XqQ3Sz43/pantalla-calamares.png" /></strong></p>
 
 Now gabeeOS Linux incorporates the Calamares installer.
 I must thank Kevin Figueroa for his collaboration in making it possible for this to happen.
