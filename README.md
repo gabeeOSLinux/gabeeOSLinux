@@ -4,7 +4,7 @@
 <p><strong>GabeeOS</strong> is a Void-based Linux distribution (Void Respin), which brings the necessary software to satisfy the daily needs of an end user; in a simple and aesthetically pleasing desktop environment.</p>
 
 <p><h3>Download</h3></p>
-<p><a title="Update: gabeeOS Linux - Gnome 42.6" href="https://sourceforge.net/projects/gabeeoslinux/files/Distro/">gabeeOS Linux - Gnome 42.4</a></p>
+<p><a title="Update: gabeeOS Linux - Gnome 42.6" href="https://sourceforge.net/projects/gabeeoslinux/files/Distro/">gabeeOS Linux - Gnome 42.6</a></p>
 <p><strong>&nbsp;</strong></p>
 
 <p><h3>Calamares Installer</h3></p>
