@@ -89,7 +89,8 @@ But for those who prefer the old school it can also be installed through the ter
 <h2>Login to LiveCD</h2>
 <p>user: anon<br />password: gabeeoslinux</p>
 <h2>For install:</h2>
-<h4><p>Open the terminal and type sudo gabeeos-installer.</p></h4>
+Now gabeeOS Linux incorporates the Calamares installer. I must thank Kevin Figueroa for his collaboration in making it possible for this to happen.
+But for those who prefer the old school it can also be installed through the terminal by running: sudo gabeeos-installer.
 <p>To install the packages for the desktop environment, choose the "local install" option.</p>
 
 
